@@ -1,3 +1,17 @@
+/**
+ *
+ * Applications development for mobile devices
+ * -------------------------------------------
+ *
+ * This HelloWorld example implements an application that
+ * simply displays a button that updates the current date and time
+ * when pushed. It uses XML Layouts applying the inflation concept.
+ *
+ * @author Francisco Martinez
+ *
+ *
+ */
+
 package aplimovil.com.helloandroidx;
 
 import android.support.v7.app.AppCompatActivity;
